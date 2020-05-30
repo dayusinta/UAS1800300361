@@ -1,0 +1,15 @@
+<resources>
+
+    <string-array name="dftrBenua">
+        <item>Asia</item>
+        <item>Antartika</item>
+        <item>Afrika</item>
+        <item>Eropa</item>
+        <item>Australia</item>
+        <item>Amerika Utara</item>
+        <item>Amerika Selatan</item>
+    </string-array>
+
+
+    <string name="app_name">UAS180030036</string>
+</resources>
